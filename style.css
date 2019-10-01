@@ -1,7 +1,7 @@
  #plate {
     width: 610px;
     height: 610px;
-    background-color: black;
+    background-color: red;
     margin: auto;
 }
 
@@ -16,4 +16,16 @@ td {
 }
 table {
     border-collapse: collapse;
+}
+#red {
+    background-color: red;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+#white {
+    background-color: white;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
 }
